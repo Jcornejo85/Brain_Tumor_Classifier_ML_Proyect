@@ -20,4 +20,7 @@ Herramientas utilizadas mas relevantes:
 -Seaborn
 -Plotly
 
+Link a presentación resultados:
+- https://docs.google.com/presentation/d/1cEFnk1HfLjgsLq7U0OfUIYD8Oau2X9gsXqcYX3JLoCY/edit?usp=sharing
+
 Autor Juan M Cornejo

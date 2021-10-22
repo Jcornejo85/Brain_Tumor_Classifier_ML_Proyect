@@ -7,7 +7,7 @@ Resultado con Inception V3  de un 84% Accuracy y un 100% en Recall en la clasifi
 Consta de:
 1. Instruciones para donde descargar los datos en la carpeta data.
 2. Un notebook de normalización para el pretratamiento de imágenes.
-3. Dos notebooks, de modelos de ML, uno con ImageDataGenerator y otro.
+3. Dos notebooks, de modelos de ML, uno con ImageDataGenerator y otro sin uso de ImageDataGenerator.
 
 Lenguaje de programación:
 -Python

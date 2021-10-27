@@ -10,6 +10,7 @@ Consta de:
 3. Dos notebooks de modelos de ML, uno con ImageDataGenerator y otro sin uso de ImageDataGenerator. Usando 3 modelos preentrenados de Redes Neuronales Convolucionales. Inceptio V3, VGG16 y Vgg19
 
 Lenguaje de programación:
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 Herramientas utilizadas mas relevantes:
